@@ -5,8 +5,9 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+title: "IEM Computer Vision"
 header:
-  image_fullwidth: computer-vision-banner.jpg
+  image_fullwidth: cvbanner2.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
