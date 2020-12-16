@@ -1,0 +1,14 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+iemcv: # replace this with your info
+  name: "IEM Computer Vision Club"
+  siterole: "To see more than normal human."
+  uri: https://iem-computer-vision.github.io/
+  email: sayantandas@gmail.com
+  twitter: "@phlow"
+# you can add more authors here
