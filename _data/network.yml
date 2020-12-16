@@ -1,21 +1,21 @@
-- menu_name: "Dankeschön"
+- menu_name: "Network"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
-
-- name: "Built on Foundation"
+- name: "Founder : Sayantan Das"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
-  title: "Built on Foundation"
+  title: "Sayantan Das"
 
-- name: "Images by Unsplash"
+- name: "Web Design : Farhan Hai Khan"
+  url: "http://khanfarhan10.github.io/"
+  class: "network-entypo"
+  title: "Farhan Hai Khan"
+
+- name: "Project Contributions : Soham Biswas"
   url: "http://unsplash.com/"
   class: "rss-link"
-  title: "Images by Unsplash"
+  title: "Soham Biswas"
 
-- name: "Using Backstretch by Scott Robbin"
+- name: "Blog Manager : Soumyadip Sarkar"
   url: "http://srobbin.com/jquery-plugins/backstretch/"
   class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+  title: "Soumyadip Sarkar"
